@@ -53,5 +53,6 @@ I used PowerBI to do futher analyse, created more measures and also created an i
   ```PowerBI
    RetainedCustomer = Calculate(COUNT (CUSTOMER CHURN DATA '[CustomerID]),
   'CUSTOMER CHURN DATA '[EXITED] = "No")
-  ``` 
-  
+  ```
+Interactive visualization was also done carried out using PowerBI, key charts include. 
+- **Count of customer**
