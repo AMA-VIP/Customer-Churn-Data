@@ -25,3 +25,9 @@ The dataset contains information on customer demographies, account information, 
 - ChurnedCustomer: whether the customer churned (Yes/No)
 
 ## ⚒️ Data Cleaning & Preparation
+Before conducting the analysis, the following steps where done on excel 
+1. Removed duplicate and handled missing value
+2. Each cell was formatted to its appropriate category
+3. A new column was created to replace the "Exited" column with the detail (Yes/No) instead of 1 & 0
+4. Row number column was removed because it was a duplicate of the row number found on excel spreadsheet
+5. Active members was also changed to Yes/No instead of 1 and 0
