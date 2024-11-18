@@ -36,6 +36,12 @@ Before conducting the analysis, the following steps where done on excel
 I use PowerBI to do futher analyse, created more measures and also created an interactive visualization to analyse the data. More measures and calculated column that was crated include:
 - AgeGroup (calculated column)
   ```PowerBI
-  AgeGroup = SWITCH(TRUE,()
-  'CUSTOMER CHURN DATA' [Age]<=24, "18-24"
+  AgeGroup = SWITCH(TRUE()
+  'CUSTOMER CHURN DATA' [Age]<=24, "18-24",
+  'CUSTOMER CHURN DATA' [Age]<=34, "25-34",
+  'CUSTOMER CHURN DATA' [Age]<=44, "35-44",
+  'CUSTOMER CHURN DATA' [Age]<=54, "45-54",
+  'CUSTOMER CHURN DATA' [Age]<=64, "55-64",
+  "65+")
+  ```
   
