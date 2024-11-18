@@ -49,5 +49,9 @@ I used PowerBI to do futher analyse, created more measures and also created an i
   ChurnedCustomer = Calculate(COUNT (CUSTOMER CHURN DATA '[CustomerID]),
   'CUSTOMER CHURN DATA '[EXITED] = "Yes")
   ``` 
-  
+- Retained Customer was also counted using the new measure
+  ```PowerBI
+   RetainedCustomer = Calculate(COUNT (CUSTOMER CHURN DATA '[CustomerID]),
+  'CUSTOMER CHURN DATA '[EXITED] = "No")
+  ``` 
   
