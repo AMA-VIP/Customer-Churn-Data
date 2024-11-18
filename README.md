@@ -19,4 +19,9 @@ The dataset contains information on customer demographies, account information, 
 - Age: Age of the customer
 - Tenure: Number of years the customer has been with the company
 - CreditScore: CreditScore of the customer
-- GEography: 
+- Geography: country of the customer
+- HasCrCard: whether the customer has a credit card (Yes/No)
+- EstimatedSalary: Customer annual salary 
+- ChurnedCustomer: whether the customer churned (Yes/No)
+
+## ⚒️ Data Cleaning & Preparation
