@@ -45,4 +45,9 @@ I used PowerBI to do futher analyse, created more measures and also created an i
   "65+")
   ```
 - Churned Customer was counted using the new measure
+  ```PowerBI
+  ChurnedCustomer = Calculate(COUNT (CUSTOMER CHURN DATA '[CustomerID]),
+  'CUSTOMER CHURN DATA '[EXITED] = "Yes")
+  ``` 
+  
   
