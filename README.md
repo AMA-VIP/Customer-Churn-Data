@@ -33,5 +33,9 @@ Before conducting the analysis, the following steps where done on excel
 5. Active members was also changed to Yes/No instead of 1 and 0
 
 ## 📈 Data Analysis and Visualization
-I use PowerBI to do futher analysis, creadted more measures and also created an interactive visualization to analyse the data. More measures that was crated include:
-
+I use PowerBI to do futher analyse, created more measures and also created an interactive visualization to analyse the data. More measures and calculated column that was crated include:
+- AgeGroup (calculated column)
+  ```PowerBI
+  AgeGroup = SWITCH(TRUE,()
+  'CUSTOMER CHURN DATA' [Age]<=24, "18-24"
+  
