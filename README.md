@@ -62,3 +62,4 @@ Interactive visualization was also done carried out using PowerBI, key charts in
   number of retained customers that are active and not active.
 - **Count of Churned by Retained Customer**: This visual was needed to know the propotion of retained and churned customer.
 - **Churned Customer by Tenure**: THis was use to understand the trend pattern of customer status. To understand what point they usually get churned.
+- **Count of Churned by Age Group**: To know the age group that ismost likedly to get churned.
