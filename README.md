@@ -55,4 +55,8 @@ I used PowerBI to do futher analyse, created more measures and also created an i
   'CUSTOMER CHURN DATA '[EXITED] = "No")
   ```
 Interactive visualization was also done carried out using PowerBI, key charts include. 
-- **Count of customer**
+- **Count of CustomerID**: To identify how many customer bought from the brand organization.
+- **Number of Churned Customer**: To identify how many customer opted out of the company
+- **Number off Retained Customer**: A visualization was also done to know the actual number of retaied customers
+- **Retained Active Customer**: from the data there was a column for active customer. So, it means most retained customer are not active. Visuals was carried out to know the number of 
+  retained customers that are active and not active
