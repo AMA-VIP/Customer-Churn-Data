@@ -58,5 +58,6 @@ Interactive visualization was also done carried out using PowerBI, key charts in
 - **Count of CustomerID**: To identify how many customer bought from the brand organization.
 - **Number of Churned Customer**: To identify how many customer opted out of the company
 - **Number off Retained Customer**: A visualization was also done to know the actual number of retaied customers
-- **Retained Active Customer**: from the data there was a column for active customer. So, it means most retained customer are not active. Visuals was carried out to know the number of 
-  retained customers that are active and not active
+- **Retained Active/Inactive Customer**: from the data there was a column for active customer. So, it means most retained customer are not active. Visuals was carried out to know the 
+  number of retained customers that are active and not active.
+- **Count of Churned by Retained Customer**: This visual was needed to know the propotion of retained and churned customer
