@@ -60,4 +60,5 @@ Interactive visualization was also done carried out using PowerBI, key charts in
 - **Number off Retained Customer**: A visualization was also done to know the actual number of retaied customers
 - **Retained Active/Inactive Customer**: from the data there was a column for active customer. So, it means most retained customer are not active. Visuals was carried out to know the 
   number of retained customers that are active and not active.
-- **Count of Churned by Retained Customer**: This visual was needed to know the propotion of retained and churned customer
+- **Count of Churned by Retained Customer**: This visual was needed to know the propotion of retained and churned customer.
+- **Churned Customer by Tenure**: THis was use to understand the trend pattern of customer status. To understand what point they usually get churned.
