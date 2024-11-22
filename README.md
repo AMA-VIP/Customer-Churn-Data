@@ -72,5 +72,6 @@ Interactive visualization was also done carried out using PowerBI, key charts in
   positively to customer retention
 - Out of the different age groups, customers of age 35-44 has the highest churned rate which is over 34.51%, which also as a slim difference between the next churned age group, age 45-54 
   (34.46%)
-- **Geography** plays significant role. From three(3) different regions(Germany, France and Spain), Germany was seen to have the higest churned customer rate
-  **N/B**: Churned Customer from the age range of 35-54 terminated subscription frm Germany.
+- **Geography** plays significant role. From three(3) different regions(Germany, France and Spain), Germany was seen to have the higest churned customer rate.
+   **N/B**: Churned Customer from the age range of 35-54 terminated subscription frm Germany.
+- From the visuals customer tend to leave within the first and the 9th month of subscription.
