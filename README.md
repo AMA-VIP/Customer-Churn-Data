@@ -95,5 +95,21 @@ Interactive visualization was also done carried out using PowerBI, key charts in
    
 
 ## ✔️ Conclusion
-This project provided insights into customer churn patterns, helping businesses understand which segments are more likely to leave and how they can improve retention strategies
+This project provided insights into customer churn patterns, helping businesses understand which segments are more likely to leave and how they can improve retention strategies.
+
+## 🪜 Future Improvement
+I will be looking forward to incorporationg data:
+- Additional customer data to improve accuracy
+- Add more interactive PowerBI dashboards to highlight key insights 
+
+## 🛑 Limitation: 
+Limited to basic customer behaviour patterns 
+
+## 🧰 Tools Used
+- Excel: Data cleaning
+- Power BI: Data visualization and analysis
+
+## ⏫ References
+- Data Source: [kaggle](https://www.kaggle.com/)
+
 
