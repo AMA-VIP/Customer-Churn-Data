@@ -82,6 +82,14 @@ Interactive visualization was also done carried out using PowerBI, key charts in
   "V.good ➡️ 252 customers chuened"
   "Fair ➡️ 685 customers churned"
   "Poor ➡️ 520 customers churned"
+**N/B**: Since majority of the customers fall into the **Fair credit Score range** next to the **Poor credit score range** it could mean:
+
+1. Higer Churn Risk:
+   Customers with fair and poor credit scores might be less reliable, which could increase their likelihood of churning (leaving the company)
+2. Retention Challenges:
+   Retaining customers with poor credit scores might require more effort because they could be less profitable
+3. Low risk product or services specially designed for customers with poor credit score should be offered to avoide more retained customwer from churning since we have ahve more number 
+   of active retained customers falling under this category 
   
   
    
