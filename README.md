@@ -66,6 +66,8 @@ Interactive visualization was also done carried out using PowerBI, key charts in
 - **Region by Retained Customer**: Visualization was done to know the region that churned the most.
 - **Customer Status by Credit Card Ownership**: Visuals was done to know if having a credit card had anything to do with customer churning or not.
 
+  
+
 
 ## 🔍KEY INSIGHT
 - Count of Customer Status by Credit Card Ownership shows that high proportion of credit card owner are retained customera, which indicate that owning a credit card might contribute 
@@ -85,15 +87,13 @@ Interactive visualization was also done carried out using PowerBI, key charts in
 **N/B**: Since majority of the customers fall into the **Fair credit Score range** next to the **Poor credit score range** it could mean:
 
 1. Higer Churn Risk:
-   Customers with fair and poor credit scores might be less reliable, which could increase their likelihood of churning (leaving the company)
+   Customers with fair and poor credit scores might be less reliable, which could increase their likelihood of churning (leaving the 
+   company)
 2. Retention Challenges:
    Retaining customers with poor credit scores might require more effort because they could be less profitable
-3. Low risk product or services specially designed for customers with poor credit score should be offered to avoide more retained customwer from churning since we have ahve more number 
-   of active retained customers falling under this category 
+3. Low risk product or services specially designed for customers with poor credit score should be offered to avoide more retained 
+   customwer from churning since we have ahve more number of active retained customers falling under this category 
   
-  
-   
-
 ## ✔️ Conclusion
 This project provided insights into customer churn patterns, helping businesses understand which segments are more likely to leave and how they can improve retention strategies.
 
