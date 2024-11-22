@@ -78,6 +78,10 @@ Interactive visualization was also done carried out using PowerBI, key charts in
 - filtering via credit card score also unfolded the following: Out of 2037 churned customer this was their credit score status
   
   "Excellent ➡️ 128 customers churned"
+  "Good ➡️ 452 customer churned"
+  "V.good ➡️ 252 customers chuened"
+  "Fair ➡️ 685 customers churned"
+  "Poor ➡️ 520 customers churned"
   
   
    
