@@ -74,4 +74,13 @@ Interactive visualization was also done carried out using PowerBI, key charts in
   (34.46%)
 - **Geography** plays significant role. From three(3) different regions(Germany, France and Spain), Germany was seen to have the higest churned customer rate.
    **N/B**: Churned Customer from the age range of 35-54 terminated subscription frm Germany.
-- From the visuals customer tend to leave within the first and the 9th month of subscription.
+- From the visuals customer tend to leave within the 1st and the 9th month of subscription.
+- filtering via credit card score also unfolded the following:
+  Out of 2037 churned customer this was their credit score status
+  "Excellent ➡️ 128 customers churned"
+  
+   
+
+## ✔️ Conclusion
+This project provided insights into customer churn patterns, helping businesses understand which segments are more likely to leave and how they can improve retention strategies
+
